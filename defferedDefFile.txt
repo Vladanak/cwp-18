@@ -1,0 +1,1 @@
+Sunday, December 2018, 9th 4:07:19 pm | prefix | LOG | Hi DeferredFileLogger!!!
